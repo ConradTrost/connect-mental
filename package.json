@@ -1,0 +1,24 @@
+{
+  "name": "connect-mental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.26.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retro1967/connect-mental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/retro1967/connect-mental/issues"
+  },
+  "homepage": "https://github.com/retro1967/connect-mental#readme"
+}

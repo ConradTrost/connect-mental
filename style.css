@@ -1,0 +1,67 @@
+body {
+    font-family: Poppins, Times, serif;
+    background: rgb(24, 24, 24);
+    font-weight: 200 !important;
+    padding-bottom: 200px;
+}
+
+.green {
+    color: rgb(122, 209, 122) !important;
+
+}
+
+
+.nav-link {
+    color: #e2e2e2 !important;
+}
+
+.active .nav-link {
+    color: #bbb8b8 !important;
+    transform: scale(1.25);
+}
+
+.jumbotron {
+    height: 500px;
+    background: url('./grass.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.jumbo-div {
+    width: 100%;
+    margin: auto !important;
+}
+
+.jumbo-contain {
+    text-align: center;
+    background: rgba(24, 24, 24, 0.562);
+    padding: 40px;
+    color: #e2e2e2;
+}
+
+.big-word {
+    text-align: center;
+    margin: auto 120px;
+}
+
+.sub-word {
+    margin-top: 20px;
+    font-size: 44px;
+    font-weight: 300;
+}
+
+.container {
+    color: #e2e2e2;
+}
+
+.right {
+    text-align: right;
+    margin-top: 100px;
+}
+
+.btn-outline-dark {
+    margin-top: 40px;
+    font-size: 40px;
+    padding: 5px 60px;
+    border: 1px solid rgb(122, 209, 122);
+}
