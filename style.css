@@ -99,3 +99,15 @@ body {
 .lower {
     margin-top: 40px;
 }
+
+.comma {
+    font-family: "Source Sans Pro";
+    font-size: 29px; 
+    z-index: -1;
+}
+
+.comma2 {
+    font-family: "Source Sans Pro";
+    font-size: 59px; 
+    z-index: -1;
+}
