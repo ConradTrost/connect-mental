@@ -2,7 +2,11 @@ body {
     font-family: Poppins, Times, serif;
     background: rgb(24, 24, 24);
     font-weight: 200 !important;
-    padding-bottom: 200px;
+}
+
+.footer {
+    height: 200px;
+    clear: both;
 }
 
 .green {
@@ -68,4 +72,30 @@ body {
 
 .sub-res {
     margin-bottom: 20px;
+}
+
+.bigger-cont {
+    display: inline-flex;
+}
+
+.something {
+    width: 60%;
+    padding-left: 120px;
+    float: left;
+}
+
+.right-side {
+    float: right;
+    border: 1px solid rgb(122, 209, 122);
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+    margin-right: 60px;
+    color: #e2e2e2;
+    padding: 20px;
+    padding-top: 60px;
+}
+
+.lower {
+    margin-top: 40px;
 }
